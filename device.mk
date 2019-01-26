@@ -299,6 +299,10 @@ PRODUCT_PACKAGES += \
 # OTA Updates
 PRODUCT_PACKAGES += \
     Updates
+	
+# Xiaomi Parts
+PRODUCT_PACKAGES += \
+    XiaomiParts
 
 # Power
 PRODUCT_PACKAGES += \
