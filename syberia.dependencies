@@ -1,18 +1,52 @@
 [
  {
-   "repository": "kernel_xiaomi_msm8953",
-   "target_path": "kernel/xiaomi/msm8953"
+   "repository" : "BeastRoms-Devices/kernel_xiaomi_msm8953_vince",
+   "target_path": "kernel/xiaomi/msm8953",
+   "branch"     : "lineage-16.0"
  },
  {
-   "repository": "vendor_xiaomi",
-   "target_path": "vendor/xiaomi"
- },
-   {
-   "repository": "android_hardware_qcom_fm",
-   "target_path": "hardware/qcom/fm"
+   "repository" : "BeastRoms-Devices/proprietary_vendor_xiaomi_vince",
+   "target_path": "vendor/xiaomi",
+   "branch"     : "pie-4.9"
  },
  {
-   "repository": "android_packages_apps_FMRadio",
-   "target_path": "packages/apps/FMRadio"
+   "repository" : "BeastRoms/platform_vendor_MiuiCamera",
+   "target_path": "vendor/MiuiCamera",
+   "branch"     : "pie"
+ },
+ {
+   "repository" : "LineageOS/android_packages_resources_devicesettings",
+   "target_path": "packages/resources/devicesettings",
+   "branch"     : "lineage-16.0"
+ },
+ {
+   "repository" : "LineageOS/android_vendor_qcom_opensource_thermal-engine",
+   "target_path": "vendor/qcom/opensource/thermal-engine",
+   "branch"     : "lineage-16.0"
+ },
+ {
+   "repository" : "LineageOS/android_hardware_qcom_thermal",
+   "target_path": "hardware/qcom/thermal",
+   "branch"     : "lineage-16.0"
+ },
+ {
+   "repository" : "LineageOS/android_hardware_qcom_vr",
+   "target_path": "hardware/qcom/vr",
+   "branch"     : "lineage-16.0"
+ },
+ {
+   "repository" : "syberia-project/platform_hardware_qcom_audio",
+   "target_path": "hardware/qcom/audio-caf/msm8996",
+   "branch"     : "9.0-caf-8996"
+ },
+ {
+   "repository" : "syberia-project/platform_hardware_qcom_display",
+   "target_path": "hardware/qcom/display-caf/msm8996",
+   "branch"     : "9.0-caf-8996"
+ },
+ {
+   "repository" : "syberia-project/platform_hardware_qcom_media",
+   "target_path": "hardware/qcom/media-caf/msm8996",
+   "branch"     : "9.0-caf-8996"
  }
 ]
