@@ -559,5 +559,7 @@
         <item>D_Cold mode:dynamic</item>
     </string-array>
 
-    <!-- Should we filter any display modes which ar
+    <!-- Should we filter any display modes which are unampped? -->
+    <bool name="config_filterDisplayModes">true</bool>
+
 </resources>
