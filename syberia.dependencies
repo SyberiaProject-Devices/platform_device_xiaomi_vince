@@ -6,7 +6,7 @@
  },
  {
    "repository" : "BeastRoms-Devices/proprietary_vendor_xiaomi_vince",
-   "target_path": "vendor/xiaomi",
+   "target_path": "vendor/xiaomi/vince",
    "branch"     : "pie-4.9"
  },
  {
